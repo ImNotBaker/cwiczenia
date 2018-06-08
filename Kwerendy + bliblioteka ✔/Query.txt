@@ -1,0 +1,17 @@
+1)	Pięć najdroższych (Unit Price) towarów/usług?
+
+2)	Ile jednostek (Units Sold) sprzedano każdego typu (Item Type)
+
+3)	Do ilu Państw (Country)sprzedano towar i ile razy (do danego Państwa) oraz jakie ilości (suma produktów sprzedana do dane Państwa)? 
+
+4)	Kiedy zamówiono pierwszy towar (Order Date) i dokąd?
+
+5)	Do jakiego Państwa sprzedano najwięcej towaru i ile?
+
+6)	Ile raz dokonano zamówień w 2011 (Order Date)
+
+Ile sprzedano każdego roku?
+
+7)	Ile sprzedano jednostek (Units Sold) dla każdego priorytetu zmówienia (Order Priority)
+
+8)	Ile jest kanałów sprzedaży (Sales Channel) i za ile w nich sprzedano?
